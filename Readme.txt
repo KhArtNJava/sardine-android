@@ -1,0 +1,1 @@
+This project uses httpclient from https://code.google.com/p/httpclientandroidlib/ project.
